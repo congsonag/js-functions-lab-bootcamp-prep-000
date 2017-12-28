@@ -4,4 +4,5 @@ function speaker() {
   console.log(sentence);
 }
 speaker();
-console.log(sentence)
+console.log(sentence);
+
