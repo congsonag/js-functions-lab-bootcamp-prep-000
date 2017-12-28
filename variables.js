@@ -1,5 +1,5 @@
 function speaker() {
-  var sentence = "Bird is the world."
+  sentence = "Bird is the world."
 }
 speaker();
 console.log(sentence);
